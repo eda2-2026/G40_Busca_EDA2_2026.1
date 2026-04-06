@@ -1,5 +1,11 @@
 # Busca Binária em Agenda de Contatos
 
+## 🎥 Vídeo de Apresentação
+
+👉 **[Clique aqui para assistir](https://youtu.be/4bk5IuUJpUg)**
+
+---
+
 **Aluno:** Samuel Alves Silva  
 **Matéria:** Estrutura de Dados e Algoritmos 2 – UnB  
 **Professor:** Mauricio Serrano  
